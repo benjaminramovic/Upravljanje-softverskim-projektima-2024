@@ -1,0 +1,7 @@
+button {
+    text-align: center;
+    color: white;
+    padding: 0.3rem 0.6rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(95, 95, 165);
+}
